@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DylanMBrown
-- 👀 I’m interested in ... learning to become Blockchain developer 
-- 🌱 I’m currently learning ... Solidity 
-- 💞️ I’m looking to collaborate on ... Smart contracts 
-- 📫 How to reach me ... Mobile- 
+- 👀 I’m interested in ... learning to become Web developer 
+- 🌱 I’m currently learning ... Web Dev 
+- 💞️ I’m looking to collaborate on ... web Developers
+- 📫 How to reach me ... https://www.linkedin.com/in/dylan-brown-a065881bb/
 
 <!---
 DylanMBrown/DylanMBrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
