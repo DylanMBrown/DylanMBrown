@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning to become Blockchain developer 
 - 🌱 I’m currently learning ... Solidity 
 - 💞️ I’m looking to collaborate on ... Smart contracts 
-- 📫 How to reach me ... Mobile- 0435049416
+- 📫 How to reach me ... Mobile- 
 
 <!---
 DylanMBrown/DylanMBrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
