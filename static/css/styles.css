@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.red-text {
+    color: red;
+}
+
+.father-text {
+    color: blue;
+}
+
+.reference {
+    font-size: 0.8em;
+    color: grey;
+}
