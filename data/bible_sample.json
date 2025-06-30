@@ -11,20 +11,20 @@
     {
       "ref": "John 3:16",
       "KJV": "<jesus>For God so loved the world, that he gave his only begotten Son,</jesus> that whosoever believeth in him should not perish, but have everlasting life.",
-      "LSB": "",
-      "NWT": "",
-      "NKJV": "",
-      "NIV": "",
-      "Interlinear": ""
+      "LSB": "<jesus>For God so loved the world, that He gave His only Son</jesus>",
+      "NWT": "<jesus>For God loved the world so much that he gave his only-begotten Son</jesus>",
+      "NKJV": "<jesus>For God so loved the world that He gave His only begotten Son</jesus>",
+      "NIV": "<jesus>For God so loved the world that he gave his one and only Son</jesus>",
+      "Interlinear": "<jesus>οὕτως γὰρ ἠγάπησεν ὁ θεὸς τὸν κόσμον, ὥστε τὸν υἱὸν τὸν μονογενῆ ἔδωκεν</jesus>"
     },
     {
       "ref": "Matthew 3:17",
       "KJV": "<father>This is my beloved Son, in whom I am well pleased.</father>",
-      "LSB": "",
-      "NWT": "",
-      "NKJV": "",
-      "NIV": "",
-      "Interlinear": ""
+      "LSB": "<father>This is My beloved Son, in whom I am well pleased.</father>",
+      "NWT": "<father>This is my Son, the beloved, whom I have approved.</father>",
+      "NKJV": "<father>This is My beloved Son, in whom I am well pleased.</father>",
+      "NIV": "<father>This is my Son, whom I love; with him I am well pleased.</father>",
+      "Interlinear": "<father>οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα.</father>"
     }
   ]
 }

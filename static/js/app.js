@@ -6,11 +6,11 @@ async function loadData() {
 
 function populateTranslationOptions(data) {
     const select = document.getElementById('translation');
-    const translations = Object.keys(data.translations);
-    translations.forEach(t => {
+    const translations = data.translations;
+    Object.keys(translations).forEach(code => {
         const option = document.createElement('option');
-        option.value = t;
-        option.textContent = t;
+        option.value = code;
+        option.textContent = translations[code];
         select.appendChild(option);
     });
     select.addEventListener('change', () => displayVerses(data));
